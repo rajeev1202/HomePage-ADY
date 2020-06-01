@@ -1,0 +1,15 @@
+.contact-event-page{
+    display: flex;
+    width: 100%;
+    margin: 3px 5px;
+    flex: 1 1 auto;
+
+}
+
+.contact-form,.event-info{
+    display: flex;
+    width: 50%;
+    height: fit-content;
+    flex-direction: column;
+    margin: 2px 5px;
+}

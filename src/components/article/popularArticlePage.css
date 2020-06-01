@@ -1,0 +1,31 @@
+.popular-article-container{
+    display: flex;
+    width: 100%;
+    flex: 1 1 auto;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 5px;
+}
+
+.popular-article,.popular-clips{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 2px 5px;
+
+}
+
+.continue-reading{
+    color:rgb(255, 187, 0);
+}
+.popular-video{
+    width: 70%;
+    height: 150px;
+    background-position: center;
+    margin: 5px 7px;
+}
+.more-articles,.more-video{
+    color: black;
+    font-size: 15px;
+    margin: 4px 0px;
+}

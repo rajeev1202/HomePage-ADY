@@ -1,0 +1,15 @@
+.homepage{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    flex: 1 1 auto;
+}
+.first-image,.second-image{
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+  
+
+}
+
